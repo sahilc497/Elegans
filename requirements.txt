@@ -1,0 +1,4 @@
+﻿cect==0.3.5
+numpy
+pandas
+matplotlib
